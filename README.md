@@ -1,3 +1,3 @@
 # Calculator
 
-Basic calculator developed in java
+Basic calculator developed in java.
